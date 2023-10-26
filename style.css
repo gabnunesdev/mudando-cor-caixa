@@ -1,0 +1,32 @@
+* {
+  background-color: white;
+  margin: 0;
+  font-family: Arial;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+}
+
+#botao {
+  background: #000;
+  padding: 10px;
+  color: #fff;
+  font-size: 18px;
+  width: 200px;
+}
+
+#box {
+  display: flex;
+  align-items: center;
+  background: blue;
+  text-align: center;
+  align-content: center;
+  justify-content: center;
+  width: 200px;
+  height: 50px;
+  font-size: 18px;
+  color: #fff;
+}
